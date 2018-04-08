@@ -154,3 +154,9 @@ Temporary Items
 
 
 # End of https://www.gitignore.io/api/c,macos,cmake,eclipse
+
+
+####My own additions
+Debug/
+Release/
+notes.txt
